@@ -1,2 +1,1 @@
-# temp-mon
- 
+# temperature-monitoring
